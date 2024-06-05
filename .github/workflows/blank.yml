@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Financial Impact Analysis</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1, h2, h3 {
+            color: #2c3e50;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .financial-values, .analysis, .conclusion {
+            margin-top: 20px;
+        }
+        .financial-values table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        .financial-values table, .financial-values th, .financial-values td {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+        .financial-values th {
+            background-color: #f2f2f2;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <h1>Financial Impact Analysis</h1>
+    <p>This scenario demonstrates how a 10% increase in client intake would affect the cash flow and profitability of a non-medical home care agency.</p>
+
+    <div class="financial-values">
+        <h2>Baseline Monthly Financials</h2>
+        <table>
+            <tr>
+                <th>Item</th>
+                <th>Amount</th>
+            </tr>
+            <tr>
+                <td>Total Revenue</td>
+                <td>$150,000</td>
+            </tr>
+            <tr>
+                <td>COGS</td>
+                <td>$80,000</td>
+            </tr>
+            <tr>
+                <td>Gross Profit</td>
+                <td>$70,000</td>
+            </tr>
+            <tr>
+                <td>Operating Expenses</td>
+                <td>$40,000</td>
+            </tr>
+            <tr>
+                <td>Operating Profit</td>
+                <td>$30,000</td>
+            </tr>
+            <tr>
+                <td>Interest and Taxes</td>
+                <td>$15,000</td>
+            </tr>
+            <tr>
+                <td>Net Profit</td>
+                <td>$15,000</td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="adjusted-financials">
+        <h2>Adjusted Financials with 10% Increase in Client Intake</h2>
+        <table>
+            <tr>
+                <th>Item</th>
+                <th>Amount</th>
+            </tr>
+            <tr>
+                <td>Total Revenue</td>
+                <td>$165,000</td>
+            </tr>
+            <tr>
+                <td>COGS</td>
+                <td>$88,000</td>
+            </tr>
+            <tr>
+                <td>Gross Profit</td>
+                <td>$77,000</td>
+            </tr>
+            <tr>
+                <td>Operating Expenses</td>
+                <td>$40,000</td>
+            </tr>
+            <tr>
+                <td>Operating Profit</td>
+                <td>$37,000</td>
+            </tr>
+            <tr>
+                <td>Interest and Taxes</td>
+                <td>$15,000</td>
+            </tr>
+            <tr>
+                <td>Net Profit</td>
+                <td>$22,000</td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="analysis">
+        <h2>Impact on Cash Flow and Profitability</h2>
+        <p><strong>Cash Flow:</strong></p>
+        <p>The increased client intake directly boosts revenue by 10%, leading to higher gross and net profits. With fixed operating expenses and interest/taxes, the additional revenue improves the overall cash flow.</p>
+
+        <p><strong>Profitability Ratios:</strong></p>
+        <p><strong>Gross Profit Margin:</strong> 46.67%<br>
+           <strong>Operating Profit Margin:</strong> 22.42%<br>
+           <strong>Net Profit Margin:</strong> 13.33%</p>
+    </div>
+
+    <div class="conclusion">
+        <h2>Conclusion</h2>
+        <p>A 10% increase in client intake enhances cash flow and overall profitability, mainly due to the leverage gained by spreading fixed costs over a larger revenue base. The agency becomes more efficient, with improved operating and net profit margins, signaling stronger financial health and sustainability. This scenario underscores the importance of scaling client intake to optimize financial performance in a non-medical home care agency.</p>
+    </div>
+</body>
+</html>
